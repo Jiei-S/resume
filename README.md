@@ -10,7 +10,7 @@
 
 技術領域問わず、フルスタックに開発することが得意です。
 
-# 職務経歴（一部抜粋）
+# 職務経歴(一部抜粋)
 
 ## AI SaaSスタートアップ
 AI SaaS プロダクトの開発。新プロダクトの開発や新機能開発、マネジメントを担当。
@@ -86,7 +86,7 @@ React, TypeScript, Python, Express, Next.js, AWS
 [主な技術スタック]  
 TypeScript, Go, Python, React, gRPC, OpenAPI, PostgreSQL, Kubernetes, Google Cloud, ArgoCD, Terraform
 
-# スキル（業務経験あり）
+# スキル(業務経験あり)
 ・TypeScript, Go, Python, React, Express, Next.js, Django, gRPC, OpenAPI  
 ・Google Kubernetes Engine, Cloud Functions, Cloud Pub/Sub, BigQuery, Cloud Build  
 ・Amazon ECS, AWS Lambda, AWS Amplify, AWS AppRunner, AWS CDK    
